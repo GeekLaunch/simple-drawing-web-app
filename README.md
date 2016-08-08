@@ -1,2 +1,2 @@
-# simple-drawing-web-app
-Simple Drawing Web App
+# Simple Drawing Web App
+[Video Guide](https://youtu.be/amXSWXQssww)
